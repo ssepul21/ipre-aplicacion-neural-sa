@@ -7,9 +7,9 @@ La experimentación computacional de este repositorio busca verificar funcionami
 
 ---
 
-Elaborado por Isidora Carmona, Francisca Correa, Javiera Santibáñez y Sebastian Sepúlveda, estudiantes de Pregrado de la Escuela de Ingeniería.
+Elaborado por Isidora Carmona, Francisca Correa, Javiera Santibáñez y Sebastian Sepúlveda, estudiantes de Pregrado de Departamento de Ingeniería Industrial y Sistemas, Escuela de Ingeniería, Pontificia Universidad Católica de Chile.
 
-Trabajo realizado bajo supervisión de Jorge Vera, profesor de planta del Departamento de Ingeniería Industrial y Sistemas.
+Trabajo realizado bajo supervisión de Jorge Vera, profesor titular del Departamento de Ingeniería Industrial y Sistemas, Escuela de Ingeniería, Pontificia Universidad Católica de Chile.
 
 ---
 Pontificia Universidad Católica de Chile
