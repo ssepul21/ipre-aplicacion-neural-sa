@@ -44,7 +44,14 @@ python scripts/main.py +experiment=tsp_ppo
     - **Instancias similares:** modificar línea 193 de `main.py`. 
 
 #### Caso Evaluación TSPLIB
-**FALTAAAAAA**
+```bash
+python scripts/main.py +experiment=tsp_ppo
+```
+Se ejecuta de la misma forma que en el primero caso. Para modificar la dimensión del problema, especificar:
+```bash
+python scripts/main.py +experiment=tsp_ppo ++problem_dim=<problem_dim>
+```
+**Nota:** Por defecto, el modelo se entrena con una dimensión de 20 nodos.
 
 
 En ambos casos, el modelo entrenado se guarda en `outputs/models/tsp<problem_dim>-ppo`.
