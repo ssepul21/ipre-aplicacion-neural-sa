@@ -131,6 +131,7 @@ def main(cfg: NeuralSAExperiment) -> None:
         training_problem_dim = 40 if cfg.problem == "tsp" else 50
         cfg.model_path = (
             "models/" + cfg.problem + str(training_problem_dim) + "-" + cfg.training.method + ".pt"
+            #ejemplo: models/tsp40-ppo.pt
         )
 
     # Load trained model

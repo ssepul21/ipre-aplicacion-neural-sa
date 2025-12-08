@@ -139,7 +139,7 @@ def main(cfg: NeuralSAExperiment) -> None:
     with tqdm(range(cfg.training.n_epochs)) as t:
         if tipo_training == "aleatoria":
             print("====== ENTRENANDO CON INSTANCIAS ALEATORIAS =======")
-            cfg.problem_dim = 40
+            cfg.problem_dim = 40 #cambiar dirección del problema si se quiere otra dimensión
             print(f"Usando {cfg.n_problems} instancias aleatorias por época")
             print(f"Dimensión del problema: {cfg.problem_dim}")
             for i in t:
